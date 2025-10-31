@@ -1,6 +1,6 @@
 # 🐍 Day 20 & Day 21 — Classic Snake Game (Python Turtle)
 
-Do you remeber the snake game that used to be on the nokia phones? The snake would start out small and you move it around the screen eating "food" making it grow longer and longer. The objective was to make it get as loooong as possible without crashing into yourslef or the wall.
+Do you remember the snake game that used to be on the nokia phones? The snake would start out small and you move it around the screen eating "food" making it grow longer and longer. The objective was to make it get as loooong as possible without crashing into yourslef or the wall.
 
 We recreated this nostalgic game using Python's Turtle module, creating different classes to make the snake move, eat food, grow and track the score on scree. This was a very cool project to do.
 
